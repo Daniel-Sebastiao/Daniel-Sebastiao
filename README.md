@@ -1,6 +1,5 @@
 ### Hi there I´m Daniel Sebastião👋
 
-<!--
 **Daniel-Sebastiao/Daniel-Sebastiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,13 +8,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning typeScript and ReactJs
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tell me into the my E-mail: daniel.ds.sebastiao@gmail.com
-- 😄 Pronouns: he/his
--->
+
 <div display="flex">
   <a href="https://github.com/Daniel-Sebastiao">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Sebastiao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Sebastiao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
